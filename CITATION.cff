@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-title: "Your Project Title"
+title: "Equator Zig"
 authors:
   - family-names: "Porter"
     given-names: "Matthew A."
@@ -8,14 +8,13 @@ authors:
     affiliation: "Qompass AI"
 version: "1.0.0"
 date-released: "2025-04-08"
-url: "https://github.com/PhaedrusFlow/your-repository-name"
-repository-code: "https://github.com/PhaedrusFlow/your-repository-name"
+url: "https://github.com/qompassai/Zig"
+repository-code: "https://github.com/qompassai/Zig"
 license: "AGPL-3.0"
 keywords:
   - quantum
   - AI
   - post-quantum-cryptography
   - education
-  - healthcare
-abstract: "A brief description of your project and its purpose."
-
+  - Zig
+abstract: "Educational Content on the Zig Programming Language."
