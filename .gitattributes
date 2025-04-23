@@ -1,0 +1,19 @@
+# Xet-specific file handling
+# Media files
+*.mp4 filter=xet diff=xet merge=xet -text
+*.mov filter=xet diff=xet merge=xet -text
+*.avi filter=xet diff=xet merge=xet -text
+
+# ML model files
+*.pt filter=xet diff=xet merge=xet -text
+*.pth filter=xet diff=xet merge=xet -text
+*.onnx filter=xet diff=xet merge=xet -text
+
+# Large datasets
+*.csv filter=xet diff=xet merge=xet -text
+*.parquet filter=xet diff=xet merge=xet -text
+
+# Images (only if they're expected to be large)
+*.png filter=xet diff=xet merge=xet -text
+*.jpg filter=xet diff=xet merge=xet -text
+
