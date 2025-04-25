@@ -1,0 +1,15 @@
+.{
+    .name = .metadataupdater,
+    .version = "0.1.0",
+    .dependencies = .{
+        .zfetch = .{
+            .url = "https://github.com/truemedian/zfetch/archive/refs/tags/v0.1.0.tar.gz",
+            .hash = "0x6822a7e93c2887ea",
+        },
+        .zig_json_decode = .{
+            .url = "https://github.com/haze/zig-json-decode/archive/refs/tags/v0.1.0.tar.gz",
+            .hash = "1220a3...",
+        },
+    },
+}
+
