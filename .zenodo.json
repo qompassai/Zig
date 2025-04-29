@@ -1,6 +1,6 @@
 {
   "title": "Zig",
-  "description": "A software project at the intersection of AI, Quantum, and Healthcare.",
+  "description": "Equator Zig: Educational Content on the Zig Programming Language",
   "license": ["AGPL-3.0", "Q-CDA-1.0"],
   "language": "eng",
   "upload_type": "software",
@@ -15,12 +15,8 @@
     }
   ],
   "keywords": [
-    "AI",
-    "Quantum",
-    "Post-Quantum Cryptography",
-    "Healthcare",
-    "Medical Education",
-    "Post-Quantum AI"
+    "AI", "Quantum", "Post-Quantum Cryptography", "Healthcare",
+    "Medical Education", "Post-Quantum AI"
   ],
   "related_identifiers": [
     {
