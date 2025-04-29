@@ -1,3 +1,0 @@
-open module com.tigerbeetle {
-    requires junit;
-}
