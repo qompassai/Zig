@@ -6,14 +6,16 @@ authors:
     given-names: "Matthew A."
     orcid: "https://orcid.org/0000-0002-0302-4812"
     affiliation: "Qompass AI"
-version: "2025-05-02"
-date-released: "2025-05-02"
+version: "2025-05-03"
+date-released: "2025-05-03"
 repository-code: "https://github.com/qompassai/Zig"
-license: "AGPL-3.0 AND Qompass-Commercial-Data-Agreement"
+license: "Q-CDA-1.0"
 keywords:
   - AI
-  - Quantum
-  - Post-Quantum Cryptography
   - Education
   - Healthcare
+  - Post-Quantum Cryptography
+  - Quantum
+  - opensource
+  - software
 abstract: "Equator Zig: Educational Content on the Zig Programming Language"

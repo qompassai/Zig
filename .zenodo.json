@@ -1,37 +1,30 @@
 {
   "title": "Zig",
   "description": "Equator Zig: Educational Content on the Zig Programming Language",
-  "license": ["AGPL-3.0", "Q-CDA-1.0"],
+  "license": "Q-CDA-1.0",
   "language": "eng",
   "upload_type": "software",
   "access_right": "open",
-  "version": "2025-05-02",
-  "publication_date": "2025-05-02",
+  "version": "2025-04-27-6-gd6a24dba",
+  "publication_date": "2025-05-03",
   "creators": [
     {
       "name": "Porter, Matthew A.",
       "affiliation": "Qompass AI",
-      "orcid": "https://orcid.org/0000-0002-0302-4812"
+      "orcid": "0000-0002-0302-4812",
+      "type": "Author"
     }
   ],
-  "keywords": [
-    "AI", "Quantum", "Post-Quantum Cryptography", "Healthcare",
-    "Medical Education", "Post-Quantum AI"
-  ],
+  "keywords": ["AI","Education","Healthcare","Post-Quantum Cryptography","Quantum","opensource","software"],
   "related_identifiers": [
-    {
-      "identifier": "https://github.com/qompassai/Zig",
-      "relation": "isSupplementTo",
-      "resource_type": "software"
-    }
+    { "identifier": "https://github.com/qompassai/Zig", "relation": "isSupplementTo", "resource_type": "software" },
+    { "identifier": "https://github.com/qompassai/Zig/releases/tag/2025-05-03", "relation": "isIdenticalTo", "resource_type": "software" },
+    { "identifier": "https://orcid.org/0000-0002-0302-4812", "relation": "isAuthorOf", "resource_type": "person" },
+    { "identifier": "https://github.com/qompassai/Zig/actions", "relation": "isCompiledBy", "resource_type": "workflow" }
   ],
-  "communities": [
-    { "identifier": "qompassai" }
-  ],
+  "communities": [ { "identifier": "qompassai" } ],
   "contributors": [
-    {
-      "name": "Qompass AI",
-      "type": "Sponsor"
-    }
+    { "name": "Porter, Matthew A.", "orcid": "https://orcid.org/0000-0002-0302-4812", "type": "Author" },
+    { "name": "Qompass AI", "type": "Sponsor" }
   ]
 }
