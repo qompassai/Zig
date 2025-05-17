@@ -1,35 +1,34 @@
-# Equator Zig
-## Educational Content for the Zig Programming Language
+<!-- /qompassai/zig/README.md -->
+<!-- ---------------------------- -->
+<!-- Copyright (C) 2025 Qompass AI, All rights reserved -->
 
-<p align="center">
-  <a href="https://www.gnu.org/licenses/agpl-3.0">
-    <img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg" alt="License: AGPL v3">
-  <a href="./LICENSE-QCDA">
-    <img src="https://img.shields.io/badge/license-Q--CDA-lightgrey.svg" alt="License: Q-CDA">
-  </a>
+<h2> Zig: Solving the cross compilation conundrum </h2>
+
+<h3> Qompass AI on Zig </h3>
+
+![Repository Views](https://komarev.com/ghpvc/?username=qompassai-zig)
+  <a href="https://ziglang.org/">
+  <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white" alt="Zig">
+</a>
+<br>
+<a href="https://ziglang.org/documentation/">
+  <img src="https://img.shields.io/badge/Zig_Documentation-blue?style=flat-square" alt="Zig Documentation">
+</a>
+<a href="https://github.com/topics/zig-tutorial">
+  <img src="https://img.shields.io/badge/Zig_Tutorials-green?style=flat-square" alt="Zig Tutorials">
+</a>
+<br>
+  <a href="https://www.gnu.org/licenses/agpl-3.0"><img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg" alt="License: AGPL v3"></a>
+  <a href="./LICENSE-QCDA"><img src="https://img.shields.io/badge/license-Q--CDA-lightgrey.svg" alt="License: Q-CDA"></a>
 </p>
 
-
-### 📄 <reponame>
-
-
----
 
 <details id="Contact">
   <summary><strong>Contact Qompass AI</strong></summary>
 
  <div align="center">
-  <p>Matthew A. Porter<sup>1</sup><br>
-  <sup>1</sup>Qompass AI, Spokane, WA</p>
-
-  <a href="mailto:&#109;&#97;&#112;&#64;&#113;&#111;&#109;&#112;&#97;&#115;&#115;&#46;&#97;&#105;">
-  <img src="https://img.shields.io/badge/Email-Get_a_Quote-blue?style=flat-square&logo=gmail" alt="Email Me">
-</a>
-
-  <a href="sms:&#43;&#49;&#53;&#48;&#57;&#57;&#49;&#57;&#53;&#50;&#51;&#55;">
-  <img src="https://img.shields.io/badge/SMS-Text_Me-blue?style=flat-square&logo=minutemailer" alt="Text Me">
-</a>
-
+  <p>Matthew A. Porter<br>
+  Qompass AI, Spokane, WA</p>
   
   <h3>Publications</h3>
   <p>
@@ -43,6 +42,17 @@
       <img src="https://img.shields.io/badge/Zenodo-Publications-blue?style=flat-square&logo=zenodo" alt="Zenodo">
     </a>
   </p>
+
+  <h3 align="center">Developer Programs</h3>
+<div align="center">
+ 
+[![NVIDIA Developer](https://img.shields.io/badge/NVIDIA-Developer_Program-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/)
+[![Meta Developer](https://img.shields.io/badge/Meta-Developer_Program-0668E1?style=for-the-badge&logo=meta&logoColor=white)](https://developers.facebook.com/)
+[![HackerOne](https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/phaedrusflow)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-qompass-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/qompass)
+[![Epic Games Developer](https://img.shields.io/badge/Epic_Games-Developer_Program-313131?style=for-the-badge&logo=epic-games&logoColor=white)](https://dev.epicgames.com/)
+</div>
+</details>
   
   <h3>Professional Profiles</h3>
   <p>
@@ -103,16 +113,7 @@
 <p><i>Funding helps us continue our research at the intersection of AI, healthcare, and education</i></p>
 </div>
 
-<h3 align="center">Developer Programs</h3>
-<div align="center">
- 
-[![NVIDIA Developer](https://img.shields.io/badge/NVIDIA-Developer_Program-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/)
-[![Meta Developer](https://img.shields.io/badge/Meta-Developer_Program-0668E1?style=for-the-badge&logo=meta&logoColor=white)](https://developers.facebook.com/)
-[![HackerOne](https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/phaedrusflow)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-qompass-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/qompass)
-[![Epic Games Developer](https://img.shields.io/badge/Epic_Games-Developer_Program-313131?style=for-the-badge&logo=epic-games&logoColor=white)](https://dev.epicgames.com/)
-</div>
-</details>
+
 
 <details id="FAQ">
   <summary><strong>Frequently Asked Questions</strong></summary>
@@ -239,7 +240,7 @@ Recent attacks underscore the importance of robust cybersecurity measures:
 - The White House and Congress jointly designated October 2024 as Cybersecurity Awareness Month. This designation comes with over 100 actions that align the Federal government and public/private sector partners are taking to help every man, woman, and child to safely navigate the age of AI.
 
 By offering both open source and commercial licensing options, we strive to create a balance that promotes innovation and accessibility. We address the complex cybersecurity challenges faced by vulnerable populations and critical infrastructure sectors as the foundation of our solutions, not an afterthought..
-
+<div id="footnotes">
 [^1]: [International Counter Ransomware Initiative 2024 Joint Statement](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/02/international-counter-ransomware-initiative-2024-joint-statement/)
 
 [^2]: [Contec CMS8000 Contains a Backdoor](https://www.cisa.gov/sites/default/files/2025-01/fact-sheet-contec-cms8000-contains-a-backdoor-508c.pdf)
@@ -255,13 +256,5 @@ By offering both open source and commercial licensing options, we strive to crea
 [^7]: [A Proclamation on Cybersecurity Awareness Month, 2024 ](https://www.whitehouse.gov/briefing-room/presidential-actions/2024/09/30/a-proclamation-on-cybersecurity-awareness-month-2024/)
 
 [^8]: [Minneapolis school district says data breach affected more than 100,000 people](https://therecord.media/minneapolis-schools-say-data-breach-affected-100000/)
+</div>
 </details>
-
-
-
-![Repository Views](https://komarev.com/ghpvc/?qompassai/Zig)
-
-<p align="center">
-  <i>Last Updated: <timestamp></i>
-</p>
-
