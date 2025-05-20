@@ -18,6 +18,6 @@ jobs:
       - uses: DeterminateSystems/nix-installer-action@main
       - uses: DeterminateSystems/flakehub-push@main
         with:
-          name: qompassai/Zig  # Auto-generate org/repo-name format
+          name: qompassai/Zig
           rolling: true
           visibility: public
