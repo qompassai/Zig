@@ -7,6 +7,7 @@
 <h3> Qompass AI on Zig </h3>
 
 ![Repository Views](https://komarev.com/ghpvc/?username=qompassai-zig)
+![GitHub all releases](https://img.shields.io/github/downloads/qompassai/zig/total?style=flat-square)
   <a href="https://ziglang.org/">
   <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white" alt="Zig">
 </a>
