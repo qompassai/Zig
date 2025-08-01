@@ -1,0 +1,11 @@
+// /qompassai/zig/.zvm/settings.jsonc
+// Qompass AI ZVM Settings
+// Copyright (C) 2025 Qompass AI, All rights reserved
+/////////////////////////////////////////////////////
+{
+	"versionMapUrl": "https://ziglang.org/download/index.json",
+	"zlsVersionMapUrl": "https://releases.zigtools.org/",
+	"useColor": true,
+	"alwaysForceInstall": true,
+	"localInstallPath": "~/.zvm/"
+}
