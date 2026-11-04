@@ -364,3 +364,7 @@ Where:
 This project is licensed under the [Apache License, Version 2.0](./LICENSE).
 
 Copyright 2025 Qompass AI.
+
+## Project template
+
+The project template lives in [`template/`](template/). Start from it with `git clone --depth 1 --filter=blob:none --sparse https://github.com/qompassai/Zig.git <project>` followed by `git -C <project> sparse-checkout set template`, then move the contents of `template/` into the project root.
